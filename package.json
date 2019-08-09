@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-zeroconf",
+    "name": "fttx-cordova-plugin-zeroconf",
     "version": "1.4.0",
     "description": "Cordova ZeroConf plugin",
     "cordova": {
-        "id": "cordova-plugin-zeroconf",
+        "id": "fttx-cordova-plugin-zeroconf",
         "platforms": [
             "android",
             "ios"
